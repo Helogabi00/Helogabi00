@@ -1,16 +1,39 @@
-## Hi there 👋
+<h1 align="center">👋 Olá, eu sou Heloiza Gabriela!</h1>
 
-<!--
-**Helogabi00/Helogabi00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Logo do colégio -->
+<p align="center">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg7pUgdhIBcK0EofpfGyHqaRFPL_18G0FvjA&s" alt="Logo do Colégio" width="150"/>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://img.shields.io/badge/Estudante-do%20Ensino%20Médio-blue" />
+  <img src="https://img.shields.io/badge/Aprendendo-GitHub-orange" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr>
+
+<h2>📚 Sobre mim</h2>
+
+<ul>
+  <li><strong>🎓 Escola:</strong> Marista Escola Social Cascavel</li>
+  <li><strong>📍 Cidade:</strong> Cascavel PR</li>
+  <li><strong>🎂 Idade:</strong> 16 ANOS</li>
+</ul>
+
+<h2>🚀 O que estou aprendendo</h2>
+
+<ul>
+  <li>✔️ Como usar o GitHub</li>
+  <li>✔️ Criar repositórios e editar arquivos</li>
+  <li>✔️ Escrever em Markdown e HTML</li>
+</ul>
+
+<h2>📫 Como falar comigo</h2>
+
+<p>Você pode me encontrar aqui no GitHub ou enviar uma mensagem na escola 😊</p>
+
+<hr>
+
+<p align="center">
+  <em>Esse é meu primeiro README, feito com ajuda do professor!</em>
+</p>

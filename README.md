@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, eu sou Heloiza Gabriela!</h1>
+<h1 align="center">👋 Olá, eu me chamo Heloiza Gabriela!</h1>
 
 <!-- Logo do colégio -->
 <p align="center">
